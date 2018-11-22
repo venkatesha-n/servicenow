@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role/>
+        <role display_value="x_293030_changeman.cm3r_user" name="x_293030_changeman.cm3r_user">9e2551b7db75a30031bf9c66db9619ce</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-11-22 16:04:27</sys_created_on>
-        <sys_id>93a219f3db75a30031bf9c66db9619f8</sys_id>
+        <sys_created_on>2018-11-22 16:15:19</sys_created_on>
+        <sys_id>d22551b7db75a30031bf9c66db9619d1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>cba219f3db75a30031bf9c66db9619f5</sys_name>
+        <sys_name>9e2551b7db75a30031bf9c66db9619ce</sys_name>
         <sys_package display_value="ChangeManagement" source="x_293030_changeman">17730293db75630031bf9c66db9619ec</sys_package>
         <sys_policy/>
         <sys_scope display_value="ChangeManagement">17730293db75630031bf9c66db9619ec</sys_scope>
-        <sys_update_name>sys_embedded_help_role_93a219f3db75a30031bf9c66db9619f8</sys_update_name>
+        <sys_update_name>sys_embedded_help_role_d22551b7db75a30031bf9c66db9619d1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-22 16:04:27</sys_updated_on>
+        <sys_updated_on>2018-11-22 16:15:19</sys_updated_on>
     </sys_embedded_help_role>
 </record_update>
